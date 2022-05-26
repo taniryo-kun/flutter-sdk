@@ -28,4 +28,6 @@ PokepayAPI(env: APIEnv.YOUR_ENV,accessToken: YOUR_ACCESS_TOKEN,);
 ```flutter
 PokepayAPI api = PokepayAPI(env: APIEnv.YOUR_ENV,accessToken: YOUR_ACCESS_TOKEN,);
 Account createdAccount = await api.createAccount(name:your_wallet_name, privateMoneyId: your_private_money_id);
-``` 
+
+test`
+`` 
